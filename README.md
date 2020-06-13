@@ -3,6 +3,6 @@
 <?php
 print "hello\n" ;
 print `ifconfig`;
-print `free m;
+print `free -m;
 ?>
 </pre>
